@@ -1,4 +1,3 @@
-setwd("/Users/giuliabrutti/Desktop/hackathon_data")
 df <- read.csv("mytable.csv")
 library(janitor)
 excel_numeric_to_date(df$DATE_OF_SURVEY)
