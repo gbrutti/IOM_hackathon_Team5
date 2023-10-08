@@ -1,4 +1,3 @@
-setwd("/Users/giuliabrutti/Desktop/hackathon_data")
 df <- read.csv("mytable.csv")
 library(janitor)
 excel_numeric_to_date(df$DATE_OF_SURVEY)
@@ -55,8 +54,8 @@ external <- read.csv("ExternalDataHack2023.csv")
 admin <- read.csv("admin1_info.csv")
 table(external$Data.Variable)
 hazards <- external[(external$Data.Variable =="HazardRisk_cropfailure"|external$Data.Variable =="HazardRisk_drought"|
-                      external$Data.Variable =="HazardRisk_heatwave"|external$Data.Variable =="HazardRisk_riverflood"|
-                      external$Data.Variable =="HazardRisk_tropicalcyclone"|external$Data.Variable =="HazardRisk_wildfire")
+                       external$Data.Variable =="HazardRisk_heatwave"|external$Data.Variable =="HazardRisk_riverflood"|
+                       external$Data.Variable =="HazardRisk_tropicalcyclone"|external$Data.Variable =="HazardRisk_wildfire")
                     & external$ADMIN_0_NAMES == "Ethiopia",]
 
 
@@ -125,11 +124,26 @@ severity$month <- as.numeric(severity$month)
 severity <- severity[, c(5, 12, 13, 14)]
 data <- merge(clean, severity, by = c("ADM1_NAME", "year", "month"))
 
-ggplot(severity, aes(x = Var2, y=Freq)) +
-  geom_bar(
-    aes(color = Var1, fill = Var1),
-    stat = "identity", position = position_dodge(0.8),
-    width = 0.7
-  )
+data <- data[data$sex != "dont want to answer",]
+#data <- data[data$ADM1_NAME == "Somali",]
+data_table <- data.frame(table(data$sex, data$pdsi, data$reasons_for_migration_environmetal, data$ADM1_NAME, data$reasons_for_migration_access_to_services, data$year))
+names(data_table)[2] <- "drought_severity"
+names(data_table)[7] <- "number_of_migrants"
+names(data_table)[1] <- "sex"
+names(data_table)[3] <- "environmental_motive"
+names(data_table)[5] <- "access_to_service_motive"
+names(data_table)[4] <- "adm1_region"
+names(data_table)[6] <- "year"
+data_table$number_of_migrants <- as.numeric(data_table$number_of_migrants)
+data_table <- data_table[data_table$number_of_migrants != 0 & data_table$environmental_motive == 1,]
+ggplot(data_table, aes(x=drought_severity, y=number_of_migrants, color=sex)) + geom_point() + facet_grid(.~year)
+data_table$drought_severity <- as.numeric(data_table$drought_severity) 
 
+model <- lm(data_table$number_of_migrants ~ poly(data_table$drought_severity,2) + data_table$sex)
+summary(model)
+model1 <- lm(data_table$number_of_migrants ~ poly(data_table$drought_severity,2)*data_table$sex)
+summary(model1)
+model2 <- lm(data_table$number_of_migrants ~ data_table$sex)
+summary(model2)
 
+write.csv(data, "data.csv")
