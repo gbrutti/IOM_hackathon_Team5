@@ -1,0 +1,257 @@
+"","Var1","Freq"
+"1","a.       Economic reasons",32847
+"2","a.       Economic reasons b.       Education or training",280
+"3","a.       Economic reasons b.       Education or training c.        Marriage, family reunification or family formation",96
+"4","a.       Economic reasons b.       Education or training d.       Access to services (e.g. health, food, water)",539
+"5","a.       Economic reasons b.       Education or training e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",4
+"6","a.       Economic reasons b.       Education or training f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",4
+"7","a.       Economic reasons b.       Education or training g.        War/ conflict",139
+"8","a.       Economic reasons b.       Education or training i.     Other, specify: _____________",1
+"9","a.       Economic reasons c.        Marriage, family reunification or family formation",334
+"10","a.       Economic reasons c.        Marriage, family reunification or family formation b.       Education or training",4
+"11","a.       Economic reasons c.        Marriage, family reunification or family formation d.       Access to services (e.g. health, food, water)",16
+"12","a.       Economic reasons c.        Marriage, family reunification or family formation e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",7
+"13","a.       Economic reasons c.        Marriage, family reunification or family formation f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",31
+"14","a.       Economic reasons c.        Marriage, family reunification or family formation g.        War/ conflict",55
+"15","a.       Economic reasons c.        Marriage, family reunification or family formation h.       Targeted violence or persecution",2
+"16","a.       Economic reasons c.        Marriage, family reunification or family formation i.     Other, specify: _____________",2
+"17","a.       Economic reasons d.       Access to services (e.g. health, food, water)",134
+"18","a.       Economic reasons d.       Access to services (e.g. health, food, water) b.       Education or training",6
+"19","a.       Economic reasons d.       Access to services (e.g. health, food, water) c.        Marriage, family reunification or family formation",2
+"20","a.       Economic reasons d.       Access to services (e.g. health, food, water) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",7
+"21","a.       Economic reasons d.       Access to services (e.g. health, food, water) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",15
+"22","a.       Economic reasons d.       Access to services (e.g. health, food, water) g.        War/ conflict",357
+"23","a.       Economic reasons d.       Access to services (e.g. health, food, water) h.       Targeted violence or persecution",33
+"24","a.       Economic reasons e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",17
+"25","a.       Economic reasons e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) d.       Access to services (e.g. health, food, water)",1
+"26","a.       Economic reasons e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",2
+"27","a.       Economic reasons e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) g.        War/ conflict",12
+"28","a.       Economic reasons f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",884
+"29","a.       Economic reasons f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) c.        Marriage, family reunification or family formation",4
+"30","a.       Economic reasons f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) d.       Access to services (e.g. health, food, water)",2
+"31","a.       Economic reasons f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",4
+"32","a.       Economic reasons f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) g.        War/ conflict",314
+"33","a.       Economic reasons f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) h.       Targeted violence or persecution",22
+"34","a.       Economic reasons f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) i.     Other, specify: _____________",89
+"35","a.       Economic reasons g.        War/ conflict",2203
+"36","a.       Economic reasons g.        War/ conflict b.       Education or training",11
+"37","a.       Economic reasons g.        War/ conflict c.        Marriage, family reunification or family formation",9
+"38","a.       Economic reasons g.        War/ conflict d.       Access to services (e.g. health, food, water)",133
+"39","a.       Economic reasons g.        War/ conflict e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",2
+"40","a.       Economic reasons g.        War/ conflict f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",77
+"41","a.       Economic reasons g.        War/ conflict h.       Targeted violence or persecution",1076
+"42","a.       Economic reasons g.        War/ conflict i.     Other, specify: _____________",2
+"43","a.       Economic reasons h.       Targeted violence or persecution",110
+"44","a.       Economic reasons h.       Targeted violence or persecution d.       Access to services (e.g. health, food, water)",4
+"45","a.       Economic reasons h.       Targeted violence or persecution e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",1
+"46","a.       Economic reasons h.       Targeted violence or persecution f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",25
+"47","a.       Economic reasons h.       Targeted violence or persecution g.        War/ conflict",56
+"48","a.       Economic reasons i.     Other, specify: _____________",28
+"49","a.       Economic reasons i.     Other, specify: _____________ g.        War/ conflict",1
+"50","a.       Economic reasons Marriage, family reunification or family formation",4
+"51","Access to services",3670
+"52","Access to services (e.g. health, food, water)",6
+"53","Attend/Visit family (wedding, funeral, etc.)",1461
+"54","b.       Education or training",61
+"55","b.       Education or training a.       Economic reasons",33
+"56","b.       Education or training a.       Economic reasons c.        Marriage, family reunification or family formation",14
+"57","b.       Education or training a.       Economic reasons d.       Access to services (e.g. health, food, water)",53
+"58","b.       Education or training a.       Economic reasons e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",4
+"59","b.       Education or training a.       Economic reasons g.        War/ conflict",1
+"60","b.       Education or training c.        Marriage, family reunification or family formation",8
+"61","b.       Education or training c.        Marriage, family reunification or family formation a.       Economic reasons",1
+"62","b.       Education or training c.        Marriage, family reunification or family formation d.       Access to services (e.g. health, food, water)",2
+"63","b.       Education or training d.       Access to services (e.g. health, food, water)",17
+"64","b.       Education or training d.       Access to services (e.g. health, food, water) a.       Economic reasons",2
+"65","b.       Education or training d.       Access to services (e.g. health, food, water) g.        War/ conflict",2
+"66","b.       Education or training f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) g.        War/ conflict",6
+"67","b.       Education or training g.        War/ conflict",6
+"68","b.       Education or training g.        War/ conflict a.       Economic reasons",1
+"69","b.       Education or training g.        War/ conflict f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",1
+"70","b.       Education or training i.     Other, specify: _____________",1
+"71","c.        Marriage  family reunification or family formation",24
+"72","c.        Marriage, family reunification or family",43
+"73","c.        Marriage, family reunification or family formation",254
+"74","c.        Marriage, family reunification or family formation a.       Economic reasons",108
+"75","c.        Marriage, family reunification or family formation a.       Economic reasons b.       Education or training",1
+"76","c.        Marriage, family reunification or family formation a.       Economic reasons d.       Access to services (e.g. health, food, water)",2
+"77","c.        Marriage, family reunification or family formation a.       Economic reasons g.        War/ conflict",2
+"78","c.        Marriage, family reunification or family formation a.       Economic reasons i.     Other, specify: _____________",1
+"79","c.        Marriage, family reunification or family formation b.       Education or training",10
+"80","c.        Marriage, family reunification or family formation b.       Education or training a.       Economic reasons",6
+"81","c.        Marriage, family reunification or family formation d.       Access to services (e.g. health, food, water)",288
+"82","c.        Marriage, family reunification or family formation d.       Access to services (e.g. health, food, water) a.       Economic reasons",2
+"83","c.        Marriage, family reunification or family formation d.       Access to services (e.g. health, food, water) b.       Education or training",2
+"84","c.        Marriage, family reunification or family formation d.       Access to services (e.g. health, food, water) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",2
+"85","c.        Marriage, family reunification or family formation d.       Access to services (e.g. health, food, water) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",9
+"86","c.        Marriage, family reunification or family formation d.       Access to services (e.g. health, food, water) g.        War/ conflict",4
+"87","c.        Marriage, family reunification or family formation d.       Access to services (e.g. health, food, water) h.       Targeted violence or persecution",1
+"88","c.        Marriage, family reunification or family formation e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) a.       Economic reasons",1
+"89","c.        Marriage, family reunification or family formation f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",63
+"90","c.        Marriage, family reunification or family formation f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) a.       Economic reasons",3
+"91","c.        Marriage, family reunification or family formation f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) d.       Access to services (e.g. health, food, water)",1
+"92","c.        Marriage, family reunification or family formation g.        War/ conflict",14
+"93","c.        Marriage, family reunification or family formation g.        War/ conflict d.       Access to services (e.g. health, food, water)",1
+"94","c.        Marriage, family reunification or family formation i.     Other, specify: _____________",3
+"95","d.       Access to services (e.g. health, food, water)",2044
+"96","d.       Access to services (e.g. health, food, water) a.       Economic reasons",67
+"97","d.       Access to services (e.g. health, food, water) a.       Economic reasons c.        Marriage, family reunification or family formation",1
+"98","d.       Access to services (e.g. health, food, water) a.       Economic reasons e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",2
+"99","d.       Access to services (e.g. health, food, water) a.       Economic reasons f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",5
+"100","d.       Access to services (e.g. health, food, water) a.       Economic reasons g.        War/ conflict",100
+"101","d.       Access to services (e.g. health, food, water) a.       Economic reasons h.       Targeted violence or persecution",22
+"102","d.       Access to services (e.g. health, food, water) b.       Education or training",3
+"103","d.       Access to services (e.g. health, food, water) c.        Marriage, family reunification or family formation",1225
+"104","d.       Access to services (e.g. health, food, water) c.        Marriage, family reunification or family formation b.       Education or training",1
+"105","d.       Access to services (e.g. health, food, water) c.        Marriage, family reunification or family formation f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",1
+"106","d.       Access to services (e.g. health, food, water) c.        Marriage, family reunification or family formation g.        War/ conflict",47
+"107","d.       Access to services (e.g. health, food, water) c.        Marriage, family reunification or family formation h.       Targeted violence or persecution",9
+"108","d.       Access to services (e.g. health, food, water) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",9
+"109","d.       Access to services (e.g. health, food, water) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) a.       Economic reasons",1
+"110","d.       Access to services (e.g. health, food, water) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) g.        War/ conflict",39
+"111","d.       Access to services (e.g. health, food, water) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) h.       Targeted violence or persecution",3
+"112","d.       Access to services (e.g. health, food, water) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",17
+"113","d.       Access to services (e.g. health, food, water) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) a.       Economic reasons",8
+"114","d.       Access to services (e.g. health, food, water) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) c.        Marriage, family reunification or family formation",1
+"115","d.       Access to services (e.g. health, food, water) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",1
+"116","d.       Access to services (e.g. health, food, water) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) g.        War/ conflict",96
+"117","d.       Access to services (e.g. health, food, water) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) h.       Targeted violence or persecution",11
+"118","d.       Access to services (e.g. health, food, water) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) i.     Other, specify: _____________",3
+"119","d.       Access to services (e.g. health, food, water) g.        War/ conflict",100
+"120","d.       Access to services (e.g. health, food, water) g.        War/ conflict a.       Economic reasons",17
+"121","d.       Access to services (e.g. health, food, water) g.        War/ conflict b.       Education or training",1
+"122","d.       Access to services (e.g. health, food, water) g.        War/ conflict c.        Marriage, family reunification or family formation",4
+"123","d.       Access to services (e.g. health, food, water) g.        War/ conflict e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",11
+"124","d.       Access to services (e.g. health, food, water) g.        War/ conflict f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",18
+"125","d.       Access to services (e.g. health, food, water) g.        War/ conflict h.       Targeted violence or persecution",324
+"126","d.       Access to services (e.g. health, food, water) g.        War/ conflict i.     Other, specify: _____________",1
+"127","d.       Access to services (e.g. health, food, water) h.       Targeted violence or persecution",13
+"128","d.       Access to services (e.g. health, food, water) h.       Targeted violence or persecution a.       Economic reasons",16
+"129","d.       Access to services (e.g. health, food, water) h.       Targeted violence or persecution f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",7
+"130","d.       Access to services (e.g. health, food, water) h.       Targeted violence or persecution g.        War/ conflict",33
+"131","d.       Access to services (e.g. health, food, water) i.     Other, specify: _____________",3
+"132","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",18
+"133","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) a.       Economic reasons",2
+"134","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) a.       Economic reasons g.        War/ conflict",5
+"135","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) c.        Marriage, family reunification or family formation",2
+"136","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) d.       Access to services (e.g. health, food, water)",23
+"137","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) d.       Access to services (e.g. health, food, water) a.       Economic reasons",2
+"138","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) d.       Access to services (e.g. health, food, water) c.        Marriage, family reunification or family formation",11
+"139","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) d.       Access to services (e.g. health, food, water) g.        War/ conflict",4
+"140","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) d.       Access to services (e.g. health, food, water) h.       Targeted violence or persecution",1
+"141","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",8
+"142","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) a.       Economic reasons",1
+"143","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) g.        War/ conflict",2
+"144","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) g.        War/ conflict",3
+"145","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) g.        War/ conflict h.       Targeted violence or persecution",6
+"146","e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) i.     Other, specify: _____________",1
+"147","Economic reasons",32532
+"148","Economic reasons Access to services (e.g. health, food, water)",5
+"149","Economic reasons Access to services (e.g. health, food, water) Education or training",1
+"150","Economic reasons Access to services (e.g. health, food, water) Marriage, family reunification or family formation",6
+"151","Economic reasons e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",1
+"152","Economic reasons Education or training Access to services (e.g. health, food, water)",17
+"153","Economic reasons Education or training Marriage, family reunification or family formation",4
+"154","Economic reasons h.       Targeted violence or persecution",4
+"155","Economic reasons Marriage, family reunification or family formation Access to services (e.g. health, food, water)",4
+"156","Economic reasons Other, specify: _____________",2
+"157","Economic reasons Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",65
+"158","Economic reasons Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) War/ conflict",34
+"159","Economic reasons War/ conflict",34
+"160","Education",123
+"161","Education or training",4
+"162","Education or training Economic reasons Access to services (e.g. health, food, water)",1
+"163","f.         Slow environmental change (e.g. livesto",25
+"164","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",1960
+"165","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) a.       Economic reasons",52
+"166","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) a.       Economic reasons c.        Marriage, family reunification or family formation",1
+"167","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) a.       Economic reasons d.       Access to services (e.g. health, food, water)",1
+"168","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) a.       Economic reasons e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",1
+"169","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) a.       Economic reasons g.        War/ conflict",6
+"170","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) a.       Economic reasons h.       Targeted violence or persecution",1
+"171","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) b.       Education or training",1
+"172","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) c.        Marriage, family reunification or family formation",16
+"173","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) c.        Marriage, family reunification or family formation a.       Economic reasons",2
+"174","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) c.        Marriage, family reunification or family formation d.       Access to services (e.g. health, food, water)",1
+"175","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) d.       Access to services (e.g. health, food, water)",29
+"176","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) d.       Access to services (e.g. health, food, water) a.       Economic reasons",2
+"177","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) d.       Access to services (e.g. health, food, water) c.        Marriage, family reunification or family formation",2
+"178","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) d.       Access to services (e.g. health, food, water) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",1
+"179","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) d.       Access to services (e.g. health, food, water) g.        War/ conflict",3
+"180","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) d.       Access to services (e.g. health, food, water) h.       Targeted violence or persecution",2
+"181","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) d.       Access to services (e.g. health, food, water) i.     Other, specify: _____________",2
+"182","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) c.        Marriage, family reunification or family formation",1
+"183","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) h.       Targeted violence or persecution",1
+"184","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) g.        War/ conflict",22
+"185","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) g.        War/ conflict a.       Economic reasons",4
+"186","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) g.        War/ conflict d.       Access to services (e.g. health, food, water)",16
+"187","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) g.        War/ conflict h.       Targeted violence or persecution",37
+"188","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) h.       Targeted violence or persecution",9
+"189","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) h.       Targeted violence or persecution a.       Economic reasons",3
+"190","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) h.       Targeted violence or persecution g.        War/ conflict",2
+"191","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) i.     Other, specify: _____________",64
+"192","f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) i.     Other, specify: _____________ d.       Access to services (e.g. health, food, water)",1
+"193","Forced movement due to Conflict",2495
+"194","g.        War/ conflict",867
+"195","g.        War/ conflict a.       Economic reasons",163
+"196","g.        War/ conflict a.       Economic reasons b.       Education or training",4
+"197","g.        War/ conflict a.       Economic reasons c.        Marriage, family reunification or family formation",3
+"198","g.        War/ conflict a.       Economic reasons d.       Access to services (e.g. health, food, water)",13
+"199","g.        War/ conflict a.       Economic reasons f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",5
+"200","g.        War/ conflict a.       Economic reasons h.       Targeted violence or persecution",7
+"201","g.        War/ conflict b.       Education or training a.       Economic reasons",2
+"202","g.        War/ conflict c.        Marriage, family reunification or family formation",4
+"203","g.        War/ conflict c.        Marriage, family reunification or family formation a.       Economic reasons",5
+"204","g.        War/ conflict c.        Marriage, family reunification or family formation d.       Access to services (e.g. health, food, water)",1
+"205","g.        War/ conflict d.       Access to services (e.g. health, food, water)",35
+"206","g.        War/ conflict d.       Access to services (e.g. health, food, water) a.       Economic reasons",28
+"207","g.        War/ conflict d.       Access to services (e.g. health, food, water) c.        Marriage, family reunification or family formation",14
+"208","g.        War/ conflict d.       Access to services (e.g. health, food, water) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",3
+"209","g.        War/ conflict d.       Access to services (e.g. health, food, water) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",5
+"210","g.        War/ conflict d.       Access to services (e.g. health, food, water) h.       Targeted violence or persecution",2
+"211","g.        War/ conflict e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) c.        Marriage, family reunification or family formation",1
+"212","g.        War/ conflict e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) d.       Access to services (e.g. health, food, water)",2
+"213","g.        War/ conflict f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",19
+"214","g.        War/ conflict f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) a.       Economic reasons",8
+"215","g.        War/ conflict f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) d.       Access to services (e.g. health, food, water)",9
+"216","g.        War/ conflict f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",1
+"217","g.        War/ conflict f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) h.       Targeted violence or persecution",3
+"218","g.        War/ conflict h.       Targeted violence or persecution",223
+"219","g.        War/ conflict h.       Targeted violence or persecution a.       Economic reasons",178
+"220","g.        War/ conflict h.       Targeted violence or persecution d.       Access to services (e.g. health, food, water)",101
+"221","g.        War/ conflict h.       Targeted violence or persecution e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",7
+"222","g.        War/ conflict h.       Targeted violence or persecution f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",17
+"223","g.        War/ conflict i.     Other, specify: _____________",3
+"224","h.       Targeted violence or persecution",37
+"225","h.       Targeted violence or persecution a.       Economic reasons",426
+"226","h.       Targeted violence or persecution a.       Economic reasons b.       Education or training",1
+"227","h.       Targeted violence or persecution a.       Economic reasons d.       Access to services (e.g. health, food, water)",6
+"228","h.       Targeted violence or persecution a.       Economic reasons f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",16
+"229","h.       Targeted violence or persecution a.       Economic reasons g.        War/ conflict",17
+"230","h.       Targeted violence or persecution d.       Access to services (e.g. health, food, water)",4
+"231","h.       Targeted violence or persecution d.       Access to services (e.g. health, food, water) a.       Economic reasons",9
+"232","h.       Targeted violence or persecution d.       Access to services (e.g. health, food, water) e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",1
+"233","h.       Targeted violence or persecution d.       Access to services (e.g. health, food, water) f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",1
+"234","h.       Targeted violence or persecution e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",1
+"235","h.       Targeted violence or persecution e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) a.       Economic reasons",2
+"236","h.       Targeted violence or persecution e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake) d.       Access to services (e.g. health, food, water)",2
+"237","h.       Targeted violence or persecution f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",50
+"238","h.       Targeted violence or persecution f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) a.       Economic reasons",120
+"239","h.       Targeted violence or persecution f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) d.       Access to services (e.g. health, food, water)",4
+"240","h.       Targeted violence or persecution f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks) g.        War/ conflict",4
+"241","h.       Targeted violence or persecution g.        War/ conflict",87
+"242","h.       Targeted violence or persecution g.        War/ conflict a.       Economic reasons",64
+"243","h.       Targeted violence or persecution g.        War/ conflict c.        Marriage, family reunification or family formation",1
+"244","h.       Targeted violence or persecution g.        War/ conflict d.       Access to services (e.g. health, food, water)",17
+"245","h.       Targeted violence or persecution g.        War/ conflict e.       Sudden onset natural disaster (e.g. flood, storm, landslide, earthquake)",1
+"246","h.       Targeted violence or persecution g.        War/ conflict f.         Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",7
+"247","i.     Other, specify: _____________",66
+"248","i. Reason linked to Covid 19",5
+"249","Marriage  family reunification or family formation",35
+"250","Marriage, family reunification or family formation",243
+"251","Natural disasters (i.e. floods drought earthquake etc)",2409
+"252","Other",669
+"253","Other, specify: _____________",9
+"254","Re-join Family",1513
+"255","Slow environmental change (e.g. livestock died due to drought, loss of agriculture due to drought/poor rainfall, sea level rise destroyed homes/assets, reduced fish stocks)",88
+"256","War/ conflict",3

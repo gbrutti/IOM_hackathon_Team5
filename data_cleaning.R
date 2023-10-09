@@ -1,5 +1,4 @@
 # load data
-setwd("/Users/giuliabrutti/Documents/GitHub/IOM_hackathon_Team5")
 clean <- read.csv("cleaned2_FMSdata.csv") #flow data 
 severity <- read.csv("clean_severity_14_11.csv") #drought severity data 
 
@@ -32,3 +31,4 @@ data <- unique(data)
 # omit respondents that did not answer or did not want to answer
 data <- data[data$sex != "dont want to answer" & data$sex != "No Answer" ,]
 write.csv(data, "data.csv")
+
