@@ -56,4 +56,3 @@ ggplot(ethiopia_df, aes(x = year , y=number_of_migrants)) +
     axis.title.y = element_text(size = 16),  # Adjust the y-axis label size
     axis.text.x = element_text(size = 14),   # Adjust the x-axis tick label size
     axis.text.y = element_text(size = 14))
-
